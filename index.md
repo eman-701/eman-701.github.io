@@ -4,7 +4,7 @@ This is my home page! My name is Your Name and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/eman-701.
 
 ### CPSC 120
 
