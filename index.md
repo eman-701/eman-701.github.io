@@ -6,7 +6,7 @@ This is my home page! My name is Emmanuel Aguilar and I am a student at [Cal Sta
 
 My GitHub page is [http://github.com/eman-701](http://github.com/eman-701).
 
-### CPSC 120
+### Favorite CPSC 120 L Labs
 
 * Lab 1
 
