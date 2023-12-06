@@ -16,7 +16,7 @@ My GitHub page is [http://github.com/eman-701](http://github.com/eman-701).
 
   Lab 3, part 1 was one of my favorite labs because it involved math for calculating the price of a pizza per square inch that was served. I liked this lab because it was the first lab that touched on using math in programming and using doubles instead of integers to write functions. I was looking forward to this in the beginning of the semester. The contents in this lab were difficult when I started but looking back on it, I can tell that I have come a long way.
 
-* Lab 6
+* Lab 4
 
-  Lab 6, part 1 was one of my favorite labs because the lab consisted of using arguments which I was happy to use. I enjoyed this lab because I remember when I was writing it, it was the first time I got a hang of how arguments worked and turned vectors into strings which I was ecstatic for. I then used the arguments to print out ingredients into a sentence. I learned a lot that day and was starting to get a hang of programming.  
+  Lab 4, part 2 was one of my favorite labs because the lab consisted of using if statements. I liked this lab because I learned on how to use if statements and understood them quite fast. This brought me reassurance since I was having trouble understanding them in the beginning but through some trials and a little help from my partner, I had began to learn on how to use them properly. I will say that if statements helped me improve on my coding abilities and it was fun learning them.
 
