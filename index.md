@@ -4,7 +4,7 @@ This is my home page! My name is Emmanuel Aguilar and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/eman-701.
+My GitHub page is [http://github.com/eman-701](http://github.com/eman-701).
 
 ### CPSC 120
 
